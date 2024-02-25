@@ -48,17 +48,5 @@ The entire decision tree is too big to be inserted here, so only a part of it is
  <img height=500px src="./Images/decision-tree-part.png" alt="dataset">
 </p>
 
-------------------------------------------
-### Contributors
-
-Mihir Gandhi - [mihir-m-gandhi](https://github.com/mihir-m-gandhi)
-
-Jasdeep Singh Grover - [jasdeep100](https://github.com/jasdeep100)
-
-Hardik Chodvadiya - [willyhardik](https://github.com/willyhardik)
-
-Amit Dave - [amitdave1998](https://github.com/amitdave1998)
-
-------------------------------------------
 ### License
 This project is licensed under the MIT - see the [LICENSE](./LICENSE) file for details.
